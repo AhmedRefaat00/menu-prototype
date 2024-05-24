@@ -1,7 +1,7 @@
 
 <h1 style='color:yellow'>MENU PROTOTYPE</h1>
-<a href="https://peaceful-monstera-636770.netlify.app/">Link</a>
 
+<a align="center" href="https://peaceful-monstera-636770.netlify.app/">Link</a>
 
 <br/>
 # Getting Started with Create React App
